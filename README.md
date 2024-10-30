@@ -1,7 +1,5 @@
-A comprehensive README file that covers the steps to clone the project, deploy it on an Ubuntu server with Apache, and secure specific routes with .htaccess password protection:
-
 # Access (Attendance Device Management System)
-
+A comprehensive README file that covers the steps to clone the project, deploy it on an Ubuntu server with Apache, and secure specific routes with .htaccess password protection:
 Access is a comprehensive Attendance Device Management System designed to handle biometric and access control data from various devices. This system is built using Laravel, a PHP framework, and provides functionalities to store and manage user and fingerprint data.
 
 ## Table of Contents
